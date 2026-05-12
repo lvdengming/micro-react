@@ -5,5 +5,5 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": "explicit"
   },
-  "cSpell.ignoreWords": ["qiankun", "utoopack"]
+  "cSpell.ignoreWords": ["qiankun", "utoopack", "umijs"]
 }
